@@ -38,11 +38,11 @@ public class Main_1759 {
 			// 조건(정렬, 중복X, 자음&모음 개수) 체크 후 출력
 			if(checkArr()) {
 				char before = result2[0];
-				for(int k=1; k<4; k++) {
+				for(int k=1; k<L; k++) {
 					if(before == result2[k]) return;
 					else before = result2[k];
 				}
-				for(int k=0; k<4; k++) {
+				for(int k=0; k<L; k++) {
 					sb.append(result2[k]);
 				}
 				sb.append("\n");
