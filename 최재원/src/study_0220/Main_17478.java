@@ -25,7 +25,7 @@ public class Main_17478 {
 	private static void dfs(int n) {
 		String str = "";
 		for(int i=0; i<n; i++) {
-			str += "____";
+			str += STR;
 		}
 		if(n == N) {
 			sb.append(str).append(Line1);
