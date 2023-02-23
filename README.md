@@ -17,5 +17,5 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023.02.20  | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|구현, 재귀||https://youtu.be/T0b7GCLlSPQ|
 | 2023.02.20  | [암호 만들기](https://www.acmicpc.net/problem/1759)|수학, 완전탐색, 조합론, 백트래킹|||
-| 2023.02.23  | [로또](https://www.acmicpc.net/problem/6603)|수학, 재귀, 조합론, 백트래킹|||
+| 2023.02.23  | [로또](https://www.acmicpc.net/problem/6603)|수학, 재귀, 조합론, 백트래킹||https://youtu.be/OGb3u5ijCcY|
 | 2023.02.23  | [쿼드트리](https://www.acmicpc.net/problem/1992)|분할정복, 재귀|||
