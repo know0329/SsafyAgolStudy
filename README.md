@@ -26,7 +26,7 @@
 | 2023.02.27 | [색종이 만들기](https://www.acmicpc.net/problem/2630)|분할정복, 재귀|||
 | 2023.02.27  | [색종이](https://www.acmicpc.net/problem/2563)|구현|||
 | 2023.03.02  | [1,2,3 더하기](https://www.acmicpc.net/problem/9095)|DP|||
-| 2023.03.02  | [치킨배달](https://www.acmicpc.net/problem/15686)|구현, 브루트포스 알고리즘, 백트래킹|||
+| 2023.03.02  | [치킨배달](https://www.acmicpc.net/problem/15686)|구현, 브루트포스 알고리즘, 백트래킹||https://youtu.be/lQlTWIVU8TI|
 
 ## 4주차 :pencil2:
 | 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
