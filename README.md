@@ -33,6 +33,6 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023.03.06 | 모의|||https://youtu.be/Q8YDJu8wQHQ|
 | 2023.03.06  | 모의||||
-| 2023.03.09  | [트리](https://www.acmicpc.net/problem/1068)||||
+| 2023.03.09  | [트리](https://www.acmicpc.net/problem/1068)|||https://youtu.be/ZSYG2pgJekw|
 | 2023.03.09  | [2007년](https://www.acmicpc.net/problem/1924)||||
 
