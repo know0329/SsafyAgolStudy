@@ -36,3 +36,10 @@
 | 2023.03.09  | [트리](https://www.acmicpc.net/problem/1068)|||https://youtu.be/ZSYG2pgJekw|
 | 2023.03.09  | [2007년](https://www.acmicpc.net/problem/1924)||||
 
+## 5주차 :pencil2:
+| 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023.03.13 |[N과M(5)](https://www.acmicpc.net/problem/15654)|||https://youtu.be/JuxeVy7CX0A|
+| 2023.03.13  | [별찍기-10](https://www.acmicpc.net/problem/2447)||||
+| 2023.03.16  | [N과M(6)](https://www.acmicpc.net/problem/15655)||||
+| 2023.03.16  | [N과M(9)](https://www.acmicpc.net/problem/15663)||||
