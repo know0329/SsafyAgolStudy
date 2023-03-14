@@ -25,19 +25,24 @@ public class Main_2447_별찍기 {
 			arr[x][y] = 1;
 			return;
 		}
-
 		int new_size = size/3;
 		for(int i=0; i<3; i++) 
 			for(int j=0; j<3; j++) 
 				if(!(i==1 && j==1)) 
 					solve(new_size, x+i*new_size, y+j*new_size);
+//		***
+//		* *
+//		***
 		
-//		for(int i=x+s; i<x+s*2; i++) {
-//			for(int j=y+s; j<y+s*2; j++) {
-//				arr[i][j] = 1;
-//			}
-//		}
-		
+//		*********
+//		* ** ** *
+//		*********
+//		***   ***
+//		* *   * *
+//		***   ***
+//		*********
+//		* ** ** *
+//		*********
 	}
 	
 	static void stamp() {

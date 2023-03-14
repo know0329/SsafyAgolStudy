@@ -26,22 +26,22 @@ public class Main_15654_N과M5 {
 		for(int i=0; i<N; i++) {
 			input[i] = Integer.parseInt(st.nextToken());
 		}
+		
 		Arrays.sort(input);
-		if(M == 1) {
-			for(int i=0; i<N; i++) {
+		
+		if(M == 1) 
+			for(int i=0; i<N; i++) 
 				sb.append(input[i]).append("\n");
-			}
-		}else {
+		else 
 			Comb(0);
-		}
+		
 		System.out.println(sb);
 	}
 	
 	static void Comb(int depth) {
 		if(depth == M) {
-			for(int i=0; i<M; i++) {
+			for(int i=0; i<M; i++) 
 				sb.append(output[i]).append(" ");
-			}
 			sb.append("\n");
 		}
 		
