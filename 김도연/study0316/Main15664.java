@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 //2:58~3:20 시간초과->이미 출력 결과에 넣은 문자열들을 보관하는 arraylist를 만들고 순회했더니 시간초과됨
-//swea의 수식 끼워넣기와 비슷하게 풀면 된다
+//swea의 숫자만들기 문제랑 비슷하게 풀면 된다
 //~3:51
 public class Main15664 {
 	private static int n;
