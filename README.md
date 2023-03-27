@@ -51,3 +51,11 @@
 | 2023.03.20  | [비숍](https://www.acmicpc.net/problem/1799)|백트래킹|트리화 시켜서 이분매칭으로도 가능||
 | 2023.03.23  | [동전1](https://www.acmicpc.net/problem/2293)|||https://youtu.be/xT3VMiPXzqQ|
 | 2023.03.23  | [1의 개수 세기](https://www.acmicpc.net/problem/9527)||||
+
+## 6주차 :pencil2:
+| 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023.03.27 |[효율적인해킹](https://www.acmicpc.net/problem/1325)|||https://youtu.be/NyAfiwlFXeI|
+| 2023.03.27  | [퍼즐조각채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)||||
+| 2023.03.30  | [곱셈](https://www.acmicpc.net/problem/1629)||||
+| 2023.03.30  | [노션터짐]()||||
