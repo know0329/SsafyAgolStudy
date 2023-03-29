@@ -5,7 +5,6 @@ ide 활용 : x
 질문 보기 : x
 피드백 : 그냥 bfs로 하나하나씩 찾았다.
 100*100*100 정도 나온다. 먼가 더 쉽게 풀수있을거 같은데 스터디원들에게 부탁한다.
-
 */
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
