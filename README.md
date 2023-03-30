@@ -58,4 +58,4 @@
 | 2023.03.27 |[효율적인해킹](https://www.acmicpc.net/problem/1325)|||https://youtu.be/NyAfiwlFXeI|
 | 2023.03.27  | [퍼즐조각채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)||||
 | 2023.03.30  | [곱셈](https://www.acmicpc.net/problem/1629)||||
-| 2023.03.30  | [노션터짐]()||||
+| 2023.03.30  | [](https://www.acmicpc.net/problem/11403)||||
