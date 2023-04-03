@@ -63,7 +63,7 @@
 ## 8주차 :pencil2:
 | 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023.04.03 |[N과M(8)](https://www.acmicpc.net/problem/15657)||||
+| 2023.04.03 |[N과M(8)](https://www.acmicpc.net/problem/15657)|||https://youtu.be/3v3Cie3U908|
 | 2023.04.03  | [로봇청소기](https://www.acmicpc.net/problem/14503)||||
 | 2023.04.06  | [부분수열의 합](https://www.acmicpc.net/problem/1182)||||
 | 2023.04.06  | [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&)||||
