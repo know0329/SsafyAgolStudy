@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Algo2_±¸¹Ì_6¹İ_ÃÖÀç¿ø {
+public class Algo2_êµ¬ë¯¸_6ë°˜_ìµœì¬ì› {
 	static int T, N, x, y, tx, ty;
 	static int[][] arr;
 	public static void main(String[] args) throws NumberFormatException, IOException {
@@ -33,6 +33,6 @@ public class Algo2_±¸¹Ì_6¹İ_ÃÖÀç¿ø {
 //		int y1 = y0 + 2;
 //		move(x1, y1, depth+1);
 //		move(x1+2, y1, depth+1);
-		// dfs°¡ ¾Æ´Ñ bfs·Î ±¸ÇöÇØ¾ß ÇÒ °Í °°Àºµ¥ ½Ã°£ÀÌ ºÎÁ·Çß½À´Ï´Ù.
+		// dfsï¿½ï¿½ ï¿½Æ´ï¿½ bfsï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø¾ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ã°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ß½ï¿½ï¿½Ï´ï¿½.
 	}
 }

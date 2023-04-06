@@ -1,4 +1,4 @@
-package study_BOJ;
+package study_0320;
 
 import java.util.Scanner;
 
