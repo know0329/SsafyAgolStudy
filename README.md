@@ -67,3 +67,11 @@
 | 2023.04.03  | [로봇청소기](https://www.acmicpc.net/problem/14503)||||
 | 2023.04.06  | [부분수열의 합](https://www.acmicpc.net/problem/1182)|||https://youtu.be/82d0jbuhaBc|
 | 2023.04.06  | [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&)||||
+
+## 9주차 :pencil2:
+| 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023.04.10 |[주난의 난](https://www.acmicpc.net/problem/14497)||||
+| 2023.04.10  | [톱니바퀴](https://www.acmicpc.net/problem/14891)||||
+| 2023.04.13  | [N과M(7)](https://www.acmicpc.net/problem/15656)||||
+| 2023.04.13  | [2xN 타일링](https://www.acmicpc.net/problem/11726)||||
