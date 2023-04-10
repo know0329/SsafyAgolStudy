@@ -71,7 +71,7 @@
 ## 9주차 :pencil2:
 | 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023.04.10 |[주난의 난](https://www.acmicpc.net/problem/14497)||||
+| 2023.04.10 |[주난의 난](https://www.acmicpc.net/problem/14497)|||https://youtu.be/yejlsUfoFpE|
 | 2023.04.10  | [톱니바퀴](https://www.acmicpc.net/problem/14891)||||
 | 2023.04.13  | [N과M(7)](https://www.acmicpc.net/problem/15656)||||
 | 2023.04.13  | [2xN 타일링](https://www.acmicpc.net/problem/11726)||||
