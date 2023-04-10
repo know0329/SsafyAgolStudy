@@ -41,43 +41,41 @@ public class Main14891 {
 			visited[rotate[i].gearNumber-1]=true;
 			while(queue.isEmpty()==false) {
 				Rotation now=queue.remove();
-				int[] nowPointers=pointers[now.gearNumber];
 				int nextDirection=-1;
 				if(now.direction==-1) {
 					nextDirection=1;
 				}
-				//현재 기어 회전
-				pointers[now.gearNumber]=rotateGears(pointers[now.gearNumber], now.direction);
 				
 				int rightPos=now.gearNumber+1;
 				int leftPos=now.gearNumber-1;
-				if(check(now.gearNumber, nowPointers, rightPos, 1, visited)) {
+				if(check(now.gearNumber, rightPos, 1, visited)) {
 					queue.add(new Rotation(rightPos, nextDirection));
 					//오른쪽 기어 회전
 					visited[rightPos]=true;
 				}
-				if(check(now.gearNumber, nowPointers, leftPos, 0, visited)) {
+				if(check(now.gearNumber, leftPos, 0, visited)) {
 					queue.add(new Rotation(leftPos, nextDirection));
 					//왼쪽 기어 회전
 					visited[leftPos]=true;
 				}
-				
+				//현재 기어 회전
+				pointers[now.gearNumber]=rotateGears(pointers[now.gearNumber], now.direction);
 			}
 
 		}
 	}
-	public static boolean check(int gearPos, int[] gearPointers, int nextGearPos, int direction, boolean[] visited) {
+	public static boolean check(int gearPos, int nextGearPos, int direction, boolean[] visited) {
 		if(nextGearPos==-1 || nextGearPos==4)
 			return false;
 		if(visited[nextGearPos]==true)
 			return false;
 		if(direction==0) {//왼쪽
-			if(gear[gearPos][gearPointers[0]]!=gear[nextGearPos][pointers[nextGearPos][2]]) {
+			if(gear[gearPos][pointers[gearPos][0]]!=gear[nextGearPos][pointers[nextGearPos][2]]) {
 				return true;
 			}else
 				return false;
 		}else {//오른쪽
-			if(gear[gearPos][gearPointers[2]]!=gear[nextGearPos][pointers[nextGearPos][0]]) {
+			if(gear[gearPos][pointers[gearPos][2]]!=gear[nextGearPos][pointers[nextGearPos][0]]) {
 				return true;
 			}else
 				return false;
