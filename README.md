@@ -75,3 +75,12 @@
 | 2023.04.10  | [톱니바퀴](https://www.acmicpc.net/problem/14891)||||
 | 2023.04.13  | [N과M(7)](https://www.acmicpc.net/problem/15656)||||
 | 2023.04.13  | [2xN 타일링](https://www.acmicpc.net/problem/11726)||||
+
+
+## 10주차 :pencil2:
+| 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023.04.17 |[퇴사 2](https://www.acmicpc.net/problem/15486)||||
+| 2023.04.17  | [리모컨](https://www.acmicpc.net/problem/1107)||||
+| 2023.04.20  | [무한수](https://www.acmicpc.net/problem/1351)||||
+| 2023.04.20  | [도서관](https://www.acmicpc.net/problem/1461)||||
