@@ -73,7 +73,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023.04.10 |[주난의 난](https://www.acmicpc.net/problem/14497)|||https://youtu.be/yejlsUfoFpE|
 | 2023.04.10  | [톱니바퀴](https://www.acmicpc.net/problem/14891)||||
-| 2023.04.13  | [N과M(7)](https://www.acmicpc.net/problem/15656)||||
+| 2023.04.13  | [N과M(7)](https://www.acmicpc.net/problem/15656)|||https://youtu.be/R1kh4GnALHs|
 | 2023.04.13  | [2xN 타일링](https://www.acmicpc.net/problem/11726)||||
 
 
