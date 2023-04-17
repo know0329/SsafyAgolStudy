@@ -80,7 +80,7 @@
 ## 10주차 :pencil2:
 | 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023.04.17 |[퇴사 2](https://www.acmicpc.net/problem/15486)||||
-| 2023.04.17  | [리모컨](https://www.acmicpc.net/problem/1107)||||
+| 2023.04.17 |[퇴사 2](https://www.acmicpc.net/problem/15486)|DP|https://january-diary.tistory.com/entry/BOJ-14501-%ED%87%B4%EC%82%AC-JAVA(퇴사 1문제 풀이이지만 2까지 적용 됨)||
+| 2023.04.17  | [리모컨](https://www.acmicpc.net/problem/1107)|완전탐색|||
 | 2023.04.20  | [무한수](https://www.acmicpc.net/problem/1351)||||
 | 2023.04.20  | [도서관](https://www.acmicpc.net/problem/1461)||||
