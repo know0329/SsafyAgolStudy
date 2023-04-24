@@ -88,7 +88,7 @@
 ## 11주차 :pencil2:
 | 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023.04.24 |[내리막 길](https://www.acmicpc.net/problem/1520)||||
+| 2023.04.24 |[내리막 길](https://www.acmicpc.net/problem/1520)|||https://youtu.be/ZRSqdYroM_I|
 | 2023.04.24  | [부분합](https://www.acmicpc.net/problem/1806)||||
 | 2023.04.27  | [중량제한](https://www.acmicpc.net/problem/1939)||||
 | 2023.04.27  | [암호코드](https://www.acmicpc.net/problem/2011)||||
