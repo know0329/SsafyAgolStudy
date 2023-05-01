@@ -92,3 +92,11 @@
 | 2023.04.24  | [부분합](https://www.acmicpc.net/problem/1806)||||
 | 2023.04.27  | [중량제한](https://www.acmicpc.net/problem/1939)|||https://youtu.be/YJ5mxQwMFf4|
 | 2023.04.27  | [암호코드](https://www.acmicpc.net/problem/2011)||||
+
+## 12주차 :pencil2:
+| 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023.05.01 |[수들의 합 4](https://www.acmicpc.net/problem/2015)|||https://youtu.be/ZRSqdYroM_I|
+| 2023.05.01  | [크게 만들기](https://www.acmicpc.net/problem/2812)||||
+| 2023.05.04  | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|||https://youtu.be/YJ5mxQwMFf4|
+| 2023.05.04  | [동전](https://www.acmicpc.net/problem/9084)||||
