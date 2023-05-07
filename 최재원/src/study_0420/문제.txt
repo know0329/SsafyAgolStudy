@@ -1,0 +1,9 @@
+도서관
+https://hesh1232.tistory.com/134
+
+무한 수열
+https://velog.io/@ckstn0778/%EB%B0%B1%EC%A4%80-1351%EB%B2%88-%EB%AC%B4%ED%95%9C-%EC%88%98%EC%97%B4-O-1-Python
+
+0 1
+1 1+1
+2 
