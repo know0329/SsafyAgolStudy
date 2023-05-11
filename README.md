@@ -106,5 +106,5 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023.05.08 |[LCS 2](https://www.acmicpc.net/problem/9252)|||https://youtu.be/aWjA0kkwSfQ|
 | 2023.05.08  | [N-Queen](https://www.acmicpc.net/problem/9663)||||
-| 2023.05.11  | [문자열 폭발](https://www.acmicpc.net/problem/9935)||||
+| 2023.05.11  | [문자열 폭발](https://www.acmicpc.net/problem/9935)|||https://youtu.be/oQN51JvIFis|
 | 2023.05.11  | [행렬 곱셈 ](https://www.acmicpc.net/problem/11049)||||
