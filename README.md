@@ -98,5 +98,22 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023.05.01 |[수들의 합 4](https://www.acmicpc.net/problem/2015)|||https://youtu.be/ZmrqevOmLJI|
 | 2023.05.01  | [크게 만들기](https://www.acmicpc.net/problem/2812)||||
-| 2023.05.04  | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)||||
+| 2023.05.04  | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|||날라감|
 | 2023.05.04  | [동전](https://www.acmicpc.net/problem/9084)||||
+
+## 13주차 :pencil2:
+| 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023.05.08 |[LCS 2](https://www.acmicpc.net/problem/9252)|||https://youtu.be/aWjA0kkwSfQ|
+| 2023.05.08  | [N-Queen](https://www.acmicpc.net/problem/9663)||||
+| 2023.05.11  | [문자열 폭발](https://www.acmicpc.net/problem/9935)|||https://youtu.be/oQN51JvIFis|
+| 2023.05.11  | [행렬 곱셈 ](https://www.acmicpc.net/problem/11049)||||
+
+## 14주차 :pencil2:
+| 날짜  |문제 |유형| 좋은 풀이들 링크| 유튜브 링크|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023.05.15 |[PuyoPuyo](https://www.acmicpc.net/problem/11559)|구현, BFS|||
+| 2023.05.15  | [ABCD](https://www.acmicpc.net/problem/13023)|그래프, DFS|||
+| 2023.05.18  | [Philosopher’s Walk](https://www.acmicpc.net/problem/14956)||||
+| 2023.05.18  | [아기상어 ](https://www.acmicpc.net/problem/16236)||||
+
