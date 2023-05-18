@@ -114,6 +114,6 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023.05.15 |[PuyoPuyo](https://www.acmicpc.net/problem/11559)|구현, BFS||https://youtu.be/t7jsSNMTXgg|
 | 2023.05.15  | [ABCD](https://www.acmicpc.net/problem/13023)|그래프, DFS|||
-| 2023.05.18  | [Philosopher’s Walk](https://www.acmicpc.net/problem/14956)||||
+| 2023.05.18  | [Philosopher’s Walk](https://www.acmicpc.net/problem/14956)|||https://youtu.be/s2oX7663JkA|
 | 2023.05.18  | [아기상어 ](https://www.acmicpc.net/problem/16236)||||
 
