@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="cardItem"
+            type="com.ssafy.likedislike.data.CardItem" />
+    </data>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@color/purple_200">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@{cardItem.itemName}"
+                android:textColor="@color/white"
+                />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</layout>
