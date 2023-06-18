@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323238936132",
+    "project_id": "realtimeanddbexam",
+    "storage_bucket": "realtimeanddbexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323238936132:android:5e40774fd7a7ab6353c611",
+        "android_client_info": {
+          "package_name": "com.ssafy.fbrealdbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323238936132-eqru2sqeirk05k3q2hg9qb66nd9rttm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssafy.fbrealdbexample",
+            "certificate_hash": "f28e74036096f48f48dfca83a07e690a128b5c98"
+          }
+        },
+        {
+          "client_id": "323238936132-888e9qui2du0gonmfa4f4ci2i0p7k4v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHc-9bg4MNzi7T0xbd1ociJTQ5A_jlKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323238936132-888e9qui2du0gonmfa4f4ci2i0p7k4v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
