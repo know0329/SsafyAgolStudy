@@ -1,0 +1,45 @@
+import java.util.*;
+import java.io.*;
+
+class Solution {
+    static private ArrayList<Integer>[] arr;
+    static int answer = 0;
+    
+    public int solution(int n, int[][] lighthouse) {
+        arr = new ArrayList[n+1];
+        for(int i=0;i<=n;i++) arr[i] = new ArrayList<>();
+        
+        // 연결 정보 
+        for(int[] node : lighthouse) {
+            arr[node[0]].add(node[1]);
+            arr[node[1]].add(node[0]);
+        }
+        
+        // 리프 노드를 찾기 위해 dfs, before은 boolean 체크 대체용
+        // dfs 특성상 리프 노드에서 부터 올라오면서 체크
+        dfs(1,0);
+        
+        return answer;
+    }
+    
+    private int dfs(int cur, int before) {
+        // 리프 노드일 경우 (켤 필요 없음 비효율적-> 부모 노드가 켜야 함)
+        if (arr[cur].size() == 1 && arr[cur].get(0) == before)
+            return 1;
+
+        // 리프 노드가 아닐 경우 (자식 노드 중 1개라도 안켜져 있으면 켠다)
+        int tmpRes = 0;
+        for (int i = 0; i < arr[cur].size(); i++) {
+            int next = arr[cur].get(i);
+            if (next == before) continue;
+            tmpRes += dfs(next, cur);
+        }
+
+		//해당 노드가 불을 킬 필요 없음 (자식 노드가 모두 켜져 있음)
+		if (tmpRes == 0) return 1;
+        
+        //해당 노드가 불을 켜야함 (0 이면 불을 켜야함)
+        answer++;
+        return 0;
+    }
+}
